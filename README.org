@@ -1,0 +1,56 @@
+* Toolbox documentation
+  :PROPERTIES:
+  :CUSTOM_ID: doc
+  :END:
+
+** Code
+   :PROPERTIES:
+   :CUSTOM_ID: code
+   :END:
+
+*** Clojure
+    :PROPERTIES:
+    :CUSTOM_ID: clojure
+    :END:
+
+** Editors
+   :PROPERTIES:
+   :CUSTOM_ID: editors
+   :END:
+
+*** [[https://www.gnu.org/software/emacs/][Emacs]]
+    :PROPERTIES:
+    :CUSTOM_ID: emacs
+    :END:
+    Emacs config and personal documentation is located [[https://github.com/zclj/.emacs.d][here]]
+
+*** [[https://code.visualstudio.com/][Visual Studio Code]]
+    :PROPERTIES:
+    :CUSTOM_ID: vscode
+    :END:
+    When good Emacs support is lacking (HTML for example), VSCode is the fallback.
+
+** Modeling
+   :PROPERTIES:
+   :CUSTOM_ID: modeling
+   :END:
+
+*** [[https://graphviz.org/][Graphviz]]
+    :PROPERTIES:
+    :CUSTOM_ID: graphviz
+    :END:
+
+*** [[https://www.yworks.com/products/yed][yEd]]
+    :PROPERTIES:
+    :CUSTOM_ID: yEd
+    :END:
+
+*** [[http://plantuml.com/][PlantUML]]
+    :PROPERTIES:
+    :CUSTOM_ID: plantuml
+    :END:
+
+** *nix
+   :PROPERTIES:
+   :CUSTOM_ID: nix
+   :END:
