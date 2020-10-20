@@ -1,0 +1,11 @@
+* Design
+   :PROPERTIES:
+   :CUSTOM_ID: design
+   :END:
+
+** Architecture
+   :PROPERTIES:
+   :CUSTOM_ID: architecture
+   :END:
+   The file [[file:architecture-figures.graphml][architecture-figures]] contain template figures based on Juval Löwy's "The Method". It can be opened in yEd and serve as basic for an architecture diagram. More information on "The Method" can be found [[https://rightingsoftware.org/][here]].
+
