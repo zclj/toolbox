@@ -1,0 +1,10 @@
+
+== Resources
+
+=== [[Entity]] Entity X
+
+.Entity X Structure
+|===
+| *Key* | *Value* | *Comment*
+| :ns/b | integer | Good b
+|===

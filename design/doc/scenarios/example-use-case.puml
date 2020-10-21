@@ -1,0 +1,18 @@
+@startuml
+
+|Client|
+start
+
+:Request Operation X;
+
+|Manager X|
+:Validate Request;
+
+if (Valid?) then ([yes])
+  :Do operation;
+else ([No])
+  :Error;
+endif
+
+end
+@enduml

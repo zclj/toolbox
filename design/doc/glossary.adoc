@@ -1,0 +1,18 @@
+
+== Glossary
+
+=== Who
+
+* User of type X
+
+=== What
+
+* Entites
+
+=== How
+
+* Do X
+
+=== Where
+
+=== Misc

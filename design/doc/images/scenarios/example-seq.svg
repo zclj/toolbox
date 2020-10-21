@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="325px" preserveAspectRatio="none" style="width:464px;height:325px;" version="1.1" viewBox="0 0 464 325" width="464px" zoomAndPan="magnify"><defs><filter height="300%" id="fqw505eoanyah" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#00FF66" filter="url(#fqw505eoanyah)" height="21.3105" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="29" y="50.4883"/><rect fill="#FFFF00" filter="url(#fqw505eoanyah)" height="191.9316" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="174" y="71.7988"/><rect fill="#FFCC00" filter="url(#fqw505eoanyah)" height="30" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="261" y="204.4199"/><rect fill="#C0C0C0" filter="url(#fqw505eoanyah)" height="30" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="335.5" y="145.1094"/><rect fill="#FF99CC" filter="url(#fqw505eoanyah)" height="30" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="413.5" y="101.1094"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="34" x2="34" y1="40.4883" y2="281.7305"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="179" x2="179" y1="40.4883" y2="281.7305"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="265.5" x2="265.5" y1="40.4883" y2="281.7305"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="340.5" x2="340.5" y1="40.4883" y2="281.7305"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="418.5" x2="418.5" y1="40.4883" y2="281.7305"/><rect fill="#FFFFFF" filter="url(#fqw505eoanyah)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="54" x="5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="40" x="12" y="25.5352">Client</text><rect fill="#FFFFFF" filter="url(#fqw505eoanyah)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="54" x="5" y="280.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="40" x="12" y="301.2656">Client</text><rect fill="#FFFFFF" filter="url(#fqw505eoanyah)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="74" x="140" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="60" x="147" y="25.5352">Manager</text><rect fill="#FFFFFF" filter="url(#fqw505eoanyah)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="74" x="140" y="280.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="60" x="147" y="301.2656">Manager</text><rect fill="#FFFFFF" filter="url(#fqw505eoanyah)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="61" x="233.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="240.5" y="25.5352">Engine</text><rect fill="#FFFFFF" filter="url(#fqw505eoanyah)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="61" x="233.5" y="280.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="240.5" y="301.2656">Engine</text><rect fill="#FFFFFF" filter="url(#fqw505eoanyah)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="60" x="308.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="46" x="315.5" y="25.5352">Access</text><rect fill="#FFFFFF" filter="url(#fqw505eoanyah)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="60" x="308.5" y="280.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="46" x="315.5" y="301.2656">Access</text><rect fill="#FFFFFF" filter="url(#fqw505eoanyah)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="68" x="382.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="54" x="389.5" y="25.5352">Security</text><rect fill="#FFFFFF" filter="url(#fqw505eoanyah)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="68" x="382.5" y="280.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="54" x="389.5" y="301.2656">Security</text><rect fill="#00FF66" filter="url(#fqw505eoanyah)" height="21.3105" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="29" y="50.4883"/><rect fill="#FFFF00" filter="url(#fqw505eoanyah)" height="191.9316" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="174" y="71.7988"/><rect fill="#FFCC00" filter="url(#fqw505eoanyah)" height="30" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="261" y="204.4199"/><rect fill="#C0C0C0" filter="url(#fqw505eoanyah)" height="30" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="335.5" y="145.1094"/><rect fill="#FF99CC" filter="url(#fqw505eoanyah)" height="30" style="stroke: #A80036; stroke-width: 1.0;" width="10" x="413.5" y="101.1094"/><polygon fill="#A80036" points="162,67.7988,172,71.7988,162,75.7988,166,71.7988" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="34" x2="168" y1="71.7988" y2="71.7988"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="116" x="41" y="67.0566">Request Operation</text><polygon fill="#A80036" points="401.5,97.1094,411.5,101.1094,401.5,105.1094,405.5,101.1094" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="184" x2="407.5" y1="101.1094" y2="101.1094"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="147" x="191" y="96.3672">Request Authentication</text><polygon fill="#A80036" points="323.5,141.1094,333.5,145.1094,323.5,149.1094,327.5,145.1094" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="184" x2="329.5" y1="145.1094" y2="145.1094"/><polygon fill="#A80036" points="249,200.4199,259,204.4199,249,208.4199,253,204.4199" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="184" x2="255" y1="204.4199" y2="204.4199"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="58" x="191" y="199.6777">Do Thing</text><polygon fill="#A80036" points="45,259.7305,35,263.7305,45,267.7305,41,263.7305" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="39" x2="178" y1="263.7305" y2="263.7305"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="105" x="51" y="258.9883">Operation Result</text><!--MD5=[5a98e6d2ec617052cfa9c3052d2a0d53]
+@startuml
+participant Client #FFFFFF
+participant Manager #FFFFFF
+participant Engine #FFFFFF
+participant Access #FFFFFF
+participant Security #FFFFFF
+
+activate Client #00FF66
+Client - -> Manager: Request Operation
+deactivate Client
+
+activate Manager #FFFF00
+
+Manager -> Security: Request Authentication
+
+activate Security #FF99CC
+deactivate Security
+
+Manager -> Access
+
+activate Access #C0C0C0
+deactivate Access
+
+Manager -> Engine: Do Thing
+activate Engine #FFCC00
+deactivate Engine
+
+Manager - -> Client: Operation Result
+
+deactivate Manager
+
+@enduml
+
+PlantUML version 1.2020.18(Wed Sep 30 21:40:44 CEST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: SE
+--></g></svg>

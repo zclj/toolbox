@@ -1,0 +1,22 @@
+= [[MyManager]] My Manager Detailed Design
+
+*My Manager* encapsulates volatility in the use-case workflows of X, such as Y and Z.
+
+== Use Cases to Support
+
+=== X Use cases
+
+* [x] Perform Awesomness
+* [] Perform More Awesomness
+
+== Design
+
+=== Security
+
+=== Entities
+
+=== Logging
+
+== Test
+
+== Integrations

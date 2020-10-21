@@ -1,0 +1,20 @@
+
+== Vision
+
+The business will receive:
+
+_A Software System to support the business process of X_
+
+=== The Business Objectives
+
+Why do the business want the vision?
+
+. Reason one
+
+. Reason two
+
+=== Mission Statement
+
+How will it be done?
+
+_Design and build a collection of software components that can be assembled into applications and features._

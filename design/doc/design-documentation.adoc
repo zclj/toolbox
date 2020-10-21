@@ -1,0 +1,16 @@
+= Design Documentation
+:toc: left
+
+include::./requirements.adoc[]
+
+include::./vision.adoc[]
+
+include::./areas-of-volatility.adoc[]
+
+include::./architecture.adoc[]
+
+include::./use-cases.adoc[]
+
+include::./resources.adoc[]
+
+include::./glossary.adoc[]

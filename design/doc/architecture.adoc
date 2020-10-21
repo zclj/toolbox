@@ -1,0 +1,34 @@
+
+== Static Architecture
+
+Volatility-based decomposition.
+
+image::./images/architecture.svg[Architecture]
+
+=== Services
+
+==== Managers
+
+===== [[MyManagerTag]] My Manager
+
+See <<my-manager-details.adoc#MyManager, for detailed design.>>
+
+====== Service Contract
+
+==== Engines
+
+===== [[MyEngine]] My Engine
+
+==== Resource Access
+
+===== [[ResourceTag]] My Entity Access
+
+==== Clients
+
+==== [[MyClientTag]] My Client
+
+==== Utilities
+
+===== [[Security]] Security
+
+===== [[Logging]] Logging

@@ -1,0 +1,32 @@
+@startuml
+participant Client #FFFFFF
+participant Manager #FFFFFF
+participant Engine #FFFFFF
+participant Access #FFFFFF
+participant Security #FFFFFF
+
+activate Client #00FF66
+Client --> Manager: Request Operation
+deactivate Client
+
+activate Manager #FFFF00
+
+Manager -> Security: Request Authentication
+
+activate Security #FF99CC
+deactivate Security
+
+Manager -> Access
+
+activate Access #C0C0C0
+deactivate Access
+
+Manager -> Engine: Do Thing
+activate Engine #FFCC00
+deactivate Engine
+
+Manager --> Client: Operation Result
+
+deactivate Manager
+
+@enduml
